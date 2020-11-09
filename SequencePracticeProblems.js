@@ -29,7 +29,7 @@ console.log("42 inch = " + feet + " feet");
 
 let lengthInFeet = 60;
 let breadthInFeet = 40;
-let lengthInMeters = lengthInFeet * 0.3048;
+let lengthInMeters = lengthInFeet * 0.3048; 
 let breadthInMeters = breadthInFeet * 0.3048;
 console.log("Plot size is " + lengthInMeters + " meters x " + breadthInMeters + " meters");
 
